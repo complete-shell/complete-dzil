@@ -1,0 +1,24 @@
+CompleteShell v0.2
+
+N dzil v0.0.1       ..'Do stuff with your dist'
+
+O --verbose                ..'Log additional output'
+O --verbose-plugin =str    ..'Log additional output from some plugins only'
+O --lib-inc =str           ..'Additional @INC dirs'
+O --help                   ..'Show help'
+
+C commands         .."List the application's commands"
+C help             .."Display a command's help screen"
+C add              .."Add modules to an existing dist"
+C authordeps       .."List your distribution's author dependencies"
+C build            .."Build your dist"
+C clean            .."Clean up after build, test, or install"
+C install          .."Install your dist"
+C listdeps         .."Print your distribution's prerequisites"
+C new              .."Mint a new dist"
+C nop              .."Do nothing: initialize dzil, then exit"
+C release          .."Release your dist"
+C run              .."Run stuff in a dir where your dist is built"
+C setup            .."Set up a basic global config file"
+C smoke            .."Smoke your dist"
+C test             .."Test your dist"

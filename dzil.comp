@@ -1,6 +1,7 @@
 CompleteShell v0.2
 
 N dzil v0.0.1       ..'Do stuff with your dist'
+M tags perl perl5
 
 O --verbose                ..'Log additional output'
 O --verbose-plugin =str    ..'Log additional output from some plugins only'
